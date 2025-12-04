@@ -41,11 +41,6 @@ Verified clean rendering on both Android and iOS browsers
 📚 What I Learned
 This project helped me bring together everything from UI design and JavaScript functionality to real-world performance improvements. I also gained experience in testing and polishing a project to make it feel more reliable and user-friendly across devices.
 
-LinkedIn Post — Short & Casual-Professional
 
-💼 Completed Internship Task 5 – Shoe E-Commerce Website
-
-I finished my capstone project for the internship: a fully responsive shoe e-commerce website built with HTML, CSS, and JavaScript.
-I also focused on performance optimization by lazy-loading images, minimizing files, and reducing unnecessary requests. The site now loads faster and works smoothly across Chrome, Firefox, Safari, and mobile browsers.
 
 This task helped me understand how real front-end projects are built and optimized. Feeling happy with how it turned out and excited to keep improving my skills!
